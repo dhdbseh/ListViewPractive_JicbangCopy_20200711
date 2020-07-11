@@ -1,4 +1,8 @@
 package kr.co.tjoeun.listviewpractive_jicbangcopy_20200711.datas
 
-class Room {
+class Room(val price:Int,
+           val address:String,
+           val floor:Int,
+           val description:String) {
+
 }

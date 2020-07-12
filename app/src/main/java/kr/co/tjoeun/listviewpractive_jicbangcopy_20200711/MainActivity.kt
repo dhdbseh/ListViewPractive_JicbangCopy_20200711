@@ -1,12 +1,10 @@
 package kr.co.tjoeun.listviewpractive_jicbangcopy_20200711
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import kr.co.tjoeun.listviewpractive_jicbangcopy_20200711.adapters.RoomAdapter
 import kr.co.tjoeun.listviewpractive_jicbangcopy_20200711.datas.Room
-import kr.co.tjoeun.listviewpractive_jicbangcopy_20200711.datas.ViewRoomDetailActivity
 
 class MainActivity : BaseActivity() {
 

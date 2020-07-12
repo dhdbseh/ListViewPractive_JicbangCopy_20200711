@@ -111,7 +111,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="공인준개사에게 전화하기"/>
+        android:text="공인중개사에게 전화하기"/>
 
 
 </LinearLayout>

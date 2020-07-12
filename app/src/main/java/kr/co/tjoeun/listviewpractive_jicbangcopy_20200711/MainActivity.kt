@@ -30,6 +30,7 @@ class MainActivity : BaseActivity() {
 
             //상세 화면으로 진입
             val myIntent = Intent(mContext, ViewRoomDetailActivity::class.java)
+            myIntent.putExtra("room", clickedRoom)
             startActivity(myIntent)
 
         }

@@ -39,6 +39,10 @@ class ViewRoomDetailActivity : BaseActivity() {
         addressTxt.text = roomData.address
         floorTxt.text = roomData.getFormattedFloor()
 
+        //var name : String? = "조경진"
+        //name = null
+        //name?.length.toString()
+
     }
 
 }
